@@ -41,4 +41,5 @@ yarn-error.log*
 next-env.d.ts
 
 #firebase json
-wads-w3-firebase.json
+wads-w3-firebase-adminsdk-fbsvc-e825f5f7b0.json
+.env.local
