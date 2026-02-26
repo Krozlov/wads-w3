@@ -1,7 +1,3 @@
-// lib/swagger.ts
-// OpenAPI 3.0 specification for WADS-W3 API
-// Serves the spec to the /docs route via getSwaggerSpec()
-
 import { createSwaggerSpec } from "next-swagger-doc";
 
 export const getSwaggerSpec = () => {
